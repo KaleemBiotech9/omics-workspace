@@ -17,6 +17,6 @@ A modular, zero-budget ecosystem built with Python and Streamlit to streamline c
 ## 💻 Local Installation
 
 1. Clone the repository.
-2. Install dependencies: `pip install -r requirements.txt`
+2. Install dependencies: `pip install -r requirments.txt`
 3. Launch the ecosystem: `streamlit run app.py`
    
